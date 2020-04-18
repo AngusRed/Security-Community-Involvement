@@ -1,4 +1,13 @@
-
+```
+ooooooooooooo ooo        ooooo ooooo   ooooo   .oooooo.   
+8'   888   `8 `88.       .888' `888'   `888'  d8P'  `Y8b  
+     888       888b     d'888   888     888  888          
+     888       8 Y88. .P  888   888ooooo888  888          
+     888       8  `888'   888   888     888  888          
+     888       8    Y     888   888     888  `88b    ooo  
+    o888o     o8o        o888o o888o   o888o  `Y8bood8P'  
+    
+    ```
 ## The Many Hats Club presents #ISOLATIONCon
 
 ## I Recruit Hackers: Understanding your industry entry, your career and what matters.
