@@ -10,6 +10,3 @@ As part of this event we are raising money for two charities our community holds
 
 You find the page at https://www.gofundme.com/f/beerconone. Any donations would be greatly appreciated.
 
-Update 7 December: Please use the Twitch stream instead: https://www.twitch.tv/themanyhatsclub. There currently is an issue with Discord and it is not functional at the moment.
-
-Please view the document on Google Drive for details on how to join: https://docs.google.com/document/d/1jEYdv1F9JzlDG0BpfQ_0cce2T4O-SRLBgoVDmrYkt2I/
