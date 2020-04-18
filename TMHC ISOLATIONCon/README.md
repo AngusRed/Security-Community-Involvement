@@ -17,7 +17,7 @@ ooooooooooooo ooo        ooooo ooooo   ooooo   .oooooo.
 o88o     o8888o o888o o888o `8oooooo.   `V88V"V8P' 8""888P' o888o  o888o `Y8bod8P' `Y8bod88P" 
                             d"     YD                                                         
                             "Y88888P'                                                   
-
+```
 ## The Many Hats Club presents #ISOLATIONCon
 
 ## I Recruit Hackers: Understanding your industry entry, your career and what matters.
@@ -34,13 +34,15 @@ We’re now offering 3 online tracks for talks (Blue-team, Purple-team/Appsec an
 
 We are not advertising or providing sponsorship packages for this conference, though some organisations are offering to provide prizes for giveaways and contests to be run during the conference. Organisations and individuals that have donated a prize or equivalent will be shown throughout the con on holding messages at the beginning and end of each talk, and will be listed on the website.
 
-##Links
+##  Links
 
 [Red Team Track](twitch.tv/themanyhatsclub)   
 [Blue Team/Appsec Track](twitch.tv/themanyhatsclub2)  
 [Purple Team Track](twitch.tv/themanyhatsclub3)  
 
-[The Many Hats Club Website](https://themanyhats.club/)
-[ISOLATIONCon](https://themanyhats.club/the-many-hats-club-presents-isolationcon/)
+[The Many Hats Club Website](https://themanyhats.club/)  
+[ISOLATIONCon](https://themanyhats.club/the-many-hats-club-presents-isolationcon/)  
 [TMHC Discord](https://discord.gg/infosec)
+
+[Doctors Without Borders Fundraiser](https://www.gofundme.com/f/tmhc-isolation-con-fundraiser)  
 
