@@ -10,3 +10,5 @@ As part of this event we are raising money for two charities our community holds
 
 You find the page at https://www.gofundme.com/f/beerconone. Any donations would be greatly appreciated.
 
+[Beer Farmers/Beer Con1/Website](https://thebeerfarmers.org/beer-con-one-bc1/)
+
