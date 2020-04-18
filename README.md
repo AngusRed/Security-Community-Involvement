@@ -7,7 +7,7 @@ Dec2019  [Beecon 1/24 Hour Global Podcast](https://github.com/AngusRed/Talks/tre
 
 **[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**     2019 - Organizer  
 **[TMHC Isolation Con](https://themanyhats.club/the-many-hats-club-presents-isolationcon/)**    2020 - Speaker  
-**The Many Hats Club**          2020 - Pres Moderator
+**The Many Hats Club**          2020 - Present Moderator
 **[B Sides Cape Town](https://bsidescapetown.co.za/past_events/)**           2018 - Volunteer  
 **[ShellCon Raise me](https://shellcon.io/raiseme/)**            2018 - Remote Assisted Resume Review  
 **#GRIMMCon Volunteer**         2020 - Remote Assisted Resume Review  
@@ -21,6 +21,6 @@ Dec2019  [Beecon 1/24 Hour Global Podcast](https://github.com/AngusRed/Talks/tre
 **Black Hat USA**               2018 - Human  
 **IT WebSec Africa**            2018 - Attendee  
 **[0XC0FFEE Cape Town](https://0xc0ffee-cpt.co.za/)**    2017 - Pres
-**[Legal Hackers Cape Town Chapter](https://www.meetup.com/cptlegalhackers/)**      2020 - Pres Member
+**[Legal Hackers Cape Town Chapter](https://www.meetup.com/cptlegalhackers/)**      2020 - Present Member
 
 
