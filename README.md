@@ -14,7 +14,7 @@ Dec2019  [Beecon 1/24 Hour Global Podcast](https://github.com/AngusRed/Talks/tre
 **[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**  2020 - Pres   
 **OWASP Cape Town Chapter**     2020 - Member
 
-## Seperate Con Attendence
+## Seperate Con Attendence/Involvement
 
 **B Sides Cape Town**           2017 - Human  
 **DEF CON 26**                  2018 - Human  
