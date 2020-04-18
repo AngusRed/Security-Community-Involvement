@@ -20,7 +20,7 @@ Dec2019  [Beecon 1/24 Hour Global Podcast](https://github.com/AngusRed/Talks/tre
 **DEF CON 26**                  2018 - Human  
 **Black Hat USA**               2018 - Human  
 **IT WebSec Africa**            2018 - Attendee  
-**[0XC0FFEE Cape Town](https://0xc0ffee-cpt.co.za/)**    2017 - Pres
+**[0XC0FFEE Cape Town](https://0xc0ffee-cpt.co.za/)**    2017 - Pres  
 **[Legal Hackers Cape Town Chapter](https://www.meetup.com/cptlegalhackers/)**      2020 - Present Member
 
 
