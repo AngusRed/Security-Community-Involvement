@@ -13,8 +13,8 @@ You find the page at https://www.gofundme.com/f/beerconone. Any donations would 
 AGENDA
 SATURDAY 7 DECEMBER
 SPEAKER	              TWITTER	            TIME (GMT)
-/Sameh Sabry	          @samehysabry	      20:10 - 20:30
-/Zoë Rose	            @RoseSecOps	        20:35 - 20:55
+\Sameh Sabry	          @samehysabry	      20:10 - 20:30
+\Zoë Rose	            @RoseSecOps	        20:35 - 20:55
 /Dr Jessica Barker	    @drjessicabarker	  21:00 - 21:20
 /FC	                  @Freakyclown	      21:00 - 21:20
 /Becky Pinkard	        @BeckyPinkard	      21:25 - 21:45
