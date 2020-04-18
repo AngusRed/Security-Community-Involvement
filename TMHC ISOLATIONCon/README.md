@@ -22,9 +22,9 @@ o88o     o8888o o888o o888o `8oooooo.   `V88V"V8P' 8""888P' o888o  o888o `Y8bod8
 
 ## I Recruit Hackers: Understanding your industry entry, your career and what matters.
 
-My talk will be briefly about my non-linear entry into Infosec. It will focus on what matters when entering or transitioning into infosec, and then a bird's eye view of what a recruiter sees and does, and thus what is important to get noticed, get interviewed, and close a win-win offer!
+My talk will touch briefly on my own non-linear entry into Infosec. We will then focus on what matters when entering or transitioning into infosec, and then a bird's eye view of what a recruiter sees and does, and thus what is important to get noticed, get interviewed, and close a win-win offer!
 
-##What is ISOLATION Con
+##  What is ISOLATION Con
 
 We are not just another infosec con; our vision is to be the online conference for information security people from all teams and different backgrounds all over the world. We actively want to encourage collaboration and participation. We want our Attendees and Speakers to be immersed in this online event, with activities and debates around the challenges we all face in our working and personal lives, and how they are adapting to the current situation we all face.
 
