@@ -11,7 +11,7 @@ Dec2019  [Beecon 1/24 Hour Global Podcast](https://github.com/AngusRed/Talks/tre
 **[B Sides Cape Town](https://bsidescapetown.co.za/past_events/)**           2018 - Volunteer  
 **[ShellCon Raise me](https://shellcon.io/raiseme/)**            2018 - Remote Assisted Resume Review  
 **#GRIMMCon Volunteer**         2020 - Remote Assisted Resume Review  
-**[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**  2020 - Pres 
+**[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**  2020 - Pres   
 **OWASP Cape Town Chapter**     2020 - Member
 
 ## Seperate Con Attendence
