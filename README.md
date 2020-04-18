@@ -1,9 +1,9 @@
 ## Index of all Talks
 
 ## 2020  
-**[ISOLATIONCon/ I Recruit Hackers: Understanding your industry entry, your career and what matters.](https://github.com/AngusRed/Talks/tree/master/TMHC%20ISOLATIONCon)**       
+**[The Many Hats Club - ISOLATIONCon - I Recruit Hackers: Understanding your industry entry, your career and what matters.](https://github.com/AngusRed/Talks/tree/master/TMHC%20ISOLATIONCon)**       
 ## 2019  
-**[Beecon 1/24 Hour Global Podcast](https://github.com/AngusRed/Talks/tree/master/BeerCon%201%202019)**   
+**[Beer Con 1 24 Hour Global Podcast](https://github.com/AngusRed/Talks/tree/master/BeerCon%201%202019)**   
 
 ## Hacker Community Engagement  
 
