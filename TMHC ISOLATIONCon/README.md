@@ -7,7 +7,7 @@ ooooooooooooo ooo        ooooo ooooo   ooooo   .oooooo.
      888       8    Y     888   888     888  `88b    ooo  
     o888o     o8o        o888o o888o   o888o  `Y8bood8P'  
     
-    ```
+
 ## The Many Hats Club presents #ISOLATIONCon
 
 ## I Recruit Hackers: Understanding your industry entry, your career and what matters.
