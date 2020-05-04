@@ -12,10 +12,10 @@
 **[DerpCon vCon](https://twitter.com/DerpConInfosec/status/1255917412743933952?s=20)**  2020  - **Hiring Ground Lead (40 Resumes Reviewed)/CTF Competitor**  
 **The Many Hats Club**          2020 - Present **Moderator**  
 **[B Sides Cape Town](https://bsidescapetown.co.za/past_events/)**           2018 - **Volunteer**  
-**[ShellCon Raise me](https://shellcon.io/raiseme/)**            2018 - Remote Assisted Resume Review  
-**#GRIMMCon Volunteer**         2020 - Remote Assisted Resume Review  
-**[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**  2020 - Pres   
-**OWASP Cape Town Chapter**     2020 - Member  
+**[ShellCon Raise me](https://shellcon.io/raiseme/)**            2018 - **Remote Assisted Resume Review**  
+**#GRIMMCon Volunteer**         2020 - **Remote Assisted Resume Review**  
+**[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**  2020 - Pres **Founder**     
+**OWASP Cape Town Chapter**     2020 - **Member**  
 
 
 
