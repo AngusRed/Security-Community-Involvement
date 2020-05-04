@@ -7,7 +7,7 @@
 
 ## Hacker Community Engagement  
 
-**[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**     2019 - Organizer  
+**[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**     2019 - Present Organizer    
 **[TMHC Isolation Con](https://themanyhats.club/the-many-hats-club-presents-isolationcon/)**    2020 - Speaker  
 **The Many Hats Club**          2020 - Present Moderator  
 **[B Sides Cape Town](https://bsidescapetown.co.za/past_events/)**           2018 - Volunteer  
