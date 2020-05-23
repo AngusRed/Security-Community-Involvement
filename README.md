@@ -1,4 +1,4 @@
-## Index of all Talks
+## Index of all Talks and Workshops
 
 ## 2020  
 **[The Many Hats Club - ISOLATIONCon - I Recruit Hackers: Understanding your industry entry, your career and what matters.](https://github.com/AngusRed/Talks/tree/master/TMHC%20ISOLATIONCon)**       
@@ -7,14 +7,17 @@
 
 ## Hacker Community Engagement  
 
-**[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**     2019 - Organizer  
-**[TMHC Isolation Con](https://themanyhats.club/the-many-hats-club-presents-isolationcon/)**    2020 - Speaker  
-**The Many Hats Club**          2020 - Present Moderator  
-**[B Sides Cape Town](https://bsidescapetown.co.za/past_events/)**           2018 - Volunteer  
-**[ShellCon Raise me](https://shellcon.io/raiseme/)**            2018 - Remote Assisted Resume Review  
-**#GRIMMCon Volunteer**         2020 - Remote Assisted Resume Review  
-**[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**  2020 - Pres   
-**OWASP Cape Town Chapter**     2020 - Member
+**[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**     2019 - Present **Organizer**    
+**[TMHC Isolation Con](https://themanyhats.club/the-many-hats-club-presents-isolationcon/)**    2020 - **Speaker**  
+**[DerpCon vCon](https://twitter.com/DerpConInfosec/status/1255917412743933952?s=20)**  2020  - **Hiring Ground Lead (40 Resumes Reviewed)/CTF Competitor**  
+**The Many Hats Club**          2020 - Present **Moderator**  
+**[B Sides Cape Town](https://bsidescapetown.co.za/past_events/)**           2018 - **Volunteer**  
+**[ShellCon Raise me](https://shellcon.io/raiseme/)**            2018 - **Remote Assisted Resume Review**  
+**#GRIMMCon Volunteer**         2020 - **Remote Assisted Resume Review**  
+**[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**  2020 - Pres **Founder**     
+**OWASP Cape Town Chapter**     2020 - **Member**  
+
+
 
 ## Seperate Con Attendence/Involvement
 
