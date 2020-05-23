@@ -27,7 +27,16 @@
 **[ShellCon Raise me](https://shellcon.io/raiseme/)**            2018 - **Remote Assisted Resume Review**  
  
 
+## Capture The Flag Competition  
 
+**DerpCon  
+[TigerKing CTF - Member of Hack South Script Ks](https://twitter.com/hack_south/status/1256404264118816769?s=20)** 2020 - Placed 9th as a Team  
+
+**TMHC IsolationCon  
+[IsolationCon CTF](https://ittakesahuman.com/lp/isolationconctf.html)** 2020 - Gained about 240 points  
+
+**TraceLabs Global Missing Persons  
+[Member of Hack South ZA CTF Team](https://twitter.com/hack_south/status/1249209356773720066?s=20)** 2020 - [Placed 57/174](https://imgur.com/szeXOZ7) as a Team  
 
 ## Seperate Con Attendence/Involvement
 
