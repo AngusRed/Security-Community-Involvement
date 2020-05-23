@@ -15,14 +15,14 @@
 
 **[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**     2019 - Present **Organizer**   
 **[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**  2020 - Present **Founder**  
-**[The Many Hats Club](https://themanyhats.club/)**          2020 - Present **Moderator** 
-**OWASP Cape Town Chapter**     2020 - **Member** 
+**[The Many Hats Club](https://themanyhats.club/)**          2020 - Present **Moderator**   
+**[OWASP Cape Town Chapter](https://owasp.org/www-chapter-cape-town/)**     2020 - **Member** 
 
 **[TUDublin HackerSoc](http://hackersoc.com/)** 2020  - **Speaker**  
 **[SecArmy SARCON 2020](https://community.secarmy.org/sarcon/)**  2020  - **Speaker**  
 **[DerpCon vCon](https://twitter.com/DerpConInfosec/status/1255917412743933952?s=20)**  2020  - **Hiring Ground Lead (40 Resumes Reviewed)/CTF Competitor**  
 **[GRIMMCon vCon 2020](https://www.grimm-co.com/grimmcon)** 2020  - **Resume/LI Reviews**  
-**[TMHC Isolation Con](https://themanyhats.club/the-many-hats-club-presents-isolationcon/)**    2020 - **Speaker**  
+**[TMHC Isolation Con](https://themanyhats.club/the-many-hats-club-presents-isolationcon/)**    2020 - **Speaker/Mod**  
 **[B Sides Cape Town](https://bsidescapetown.co.za/past_events/)**           2018 - **Volunteer**  
 **[ShellCon Raise me](https://shellcon.io/raiseme/)**            2018 - **Remote Assisted Resume Review**  
  
