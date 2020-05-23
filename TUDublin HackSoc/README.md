@@ -9,7 +9,7 @@
  / __  / /_/ / /__/ ,< /  __/ /   ___/ / /_/ / /__  
 /_/ /_/\__,_/\___/_/|_|\___/_/   /____/\____/\___/  
                                                     
-                                                    ```
+```
 ##  Hacker Careers 101 by @AngusRedBlue on TUDublin HackerSoc  
 
 ##  Below are details related to my talk/podcast TUDublin HackerSoc  
