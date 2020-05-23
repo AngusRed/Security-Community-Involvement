@@ -14,11 +14,11 @@
 
 ##  Below are details related to my talk/podcast TUDublin HackerSoc  
 
-**[http://hackersoc.com/](TUDublin HackerSoc)**  
-**[https://www.linkedin.com/company/tu-dublin-ethical-hacker-society/](TUDublin HackerSoc Linked In Page)**  
-**[https://www.youtube.com/channel/UC1m8eo9c5hsDWl5pCu72Agg?app=desktop](TUDublin HackerSoc Youtube)**  
-**[https://twitter.com/hackersoc?lang=en](TUDublin HackerSoc Twitter)**  
-**[https://github.com/hackersoc/Talks](TUDublin HackerSoc Github)**  
+**[TUDublin HackerSoc](http://hackersoc.com/)**  
+**[TUDublin HackerSoc Linked In Page](https://www.linkedin.com/company/tu-dublin-ethical-hacker-society/)**  
+**[TUDublin HackerSoc Youtube](https://www.youtube.com/channel/UC1m8eo9c5hsDWl5pCu72Agg?app=desktop)**  
+**[TUDublin HackerSoc Twitter](https://twitter.com/hackersoc?lang=en)**  
+**[TUDublin HackerSoc Github](https://github.com/hackersoc/Talks)**  
 
 
 ##About TUDublin HackerSoc
