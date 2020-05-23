@@ -12,9 +12,9 @@
 ```
 ##  Hacker Careers 101 by @AngusRedBlue on TUDublin HackerSoc  
 
-I gave a 2hr talk to the followers of TUDublin HackerSoc on what to consider when building a resume, what matters in your career and advice on the subject. The slides for this talk should be in this folder. If you have any questions please reach out on [Twitter](https://twitter.com/AngusRedBlue)     
+I gave a 2hr talk to the followers of TUDublin HackerSoc on what to consider when building a resume, what matters in your career and advice on the subject. The slides for this talk should be in this folder. If you have any questions please reach out on **[Twitter](https://twitter.com/AngusRedBlue)** or **[LinkedIn](https://www.linkedin.com/in/chwroth/)**     
 
-**[Hacker Career 101: TUDublin HackerSoc](https://www.youtube.com/watch?v=iVji7iEFWEg&t=301s)**
+**[Hacker Career 101: TUDublin HackerSoc Talk by @AngusRed on Youtube](https://www.youtube.com/watch?v=iVji7iEFWEg&t=301s)**
 
 ##  Below are details related to my talk/podcast TUDublin HackerSoc  
 
