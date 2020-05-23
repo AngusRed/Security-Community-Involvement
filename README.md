@@ -2,7 +2,9 @@
 
 ## 2020  
 **[The Many Hats Club - ISOLATIONCon - I Recruit Hackers: Understanding your industry entry, your career and what matters.](https://github.com/AngusRed/Talks/tree/master/TMHC%20ISOLATIONCon)**  
+
 **[TUDublin HackerSoc - Hacker Career 101:Resumes, LinkedIn and your career](https://github.com/AngusRed/Security-Community-Involvement/tree/master/TUDublin%20HackSoc)**  
+
 **[SecArmy SARCON 2020 - I Recruit Hackers: Understanding your industry entry, your career and what matters(Focus on VISAS)](https://youtu.be/sYLHM-86gGw?t=10963)**  
 
 ## 2019  
