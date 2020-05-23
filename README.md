@@ -27,7 +27,7 @@
 **[ShellCon Raise me](https://shellcon.io/raiseme/)**            2018 - **Remote Assisted Resume Review**  
  
 
-## Capture The Flag Competition  
+## Capture The Flag  
 
 **DerpCon  
 [TigerKing CTF - Member of Hack South Script Ks](https://twitter.com/hack_south/status/1256404264118816769?s=20)** 2020 - Placed 9th as a Team  
