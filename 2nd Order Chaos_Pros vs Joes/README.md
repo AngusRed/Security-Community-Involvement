@@ -76,5 +76,5 @@ Understanding what recruiters do, and how best to work with yours.
 [Second Order Chaos Twitch](https://www.twitch.tv/secondorderchaos)   
 [Second Order Chaos Youtube](https://www.youtube.com/channel/UCCrDPz8HiFXLfVdPiZInCdw)  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_ZhCl2Ba7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  
