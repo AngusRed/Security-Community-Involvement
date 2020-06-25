@@ -2,18 +2,24 @@
 
 ## 2020 - Speaker 
 
-**CircleCityCon - Career Workshop AMA - [Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**    
+**CircleCityCon - Career Workshop AMA   
+[Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**    
 
-**Second Order Chaos - Pros v Joes - [Your Recruiter and You: Understanding recruiters and how best to work with yours.](https://github.com/AngusRed/Security-Community-Involvement/tree/master/2nd%20Order%20Chaos_Pros%20vs%20Joes)**     
+**Second Order Chaos - Pros v Joes  
+[Your Recruiter and You: Understanding recruiters and how best to work with yours.](https://github.com/AngusRed/Security-Community-Involvement/tree/master/2nd%20Order%20Chaos_Pros%20vs%20Joes)**     
 
-**TUDublin HackerSoc - [Hacker Career 101:Resumes, LinkedIn and your career](https://github.com/AngusRed/Security-Community-Involvement/tree/master/TUDublin%20HackSoc)**  
+**TUDublin HackerSoc  
+[Hacker Career 101:Resumes, LinkedIn and your career](https://github.com/AngusRed/Security-Community-Involvement/tree/master/TUDublin%20HackSoc)**  
 
-**SecArmy SARCON 2020 - [I Recruit Hackers: +Focus on VISAS](https://youtu.be/sYLHM-86gGw?t=10963)**  
+**SecArmy SARCON 2020  
+[I Recruit Hackers: +Focus on VISAS](https://youtu.be/sYLHM-86gGw?t=10963)**  
 
-**The Many Hats Club - ISOLATIONCon - [I Recruit Hackers: Understanding your industry entry, your career and what matters.](https://github.com/AngusRed/Talks/tree/master/TMHC%20ISOLATIONCon)**  
+**The Many Hats Club - ISOLATIONCon  
+[I Recruit Hackers: Understanding your industry entry, your career and what matters.](https://github.com/AngusRed/Talks/tree/master/TMHC%20ISOLATIONCon)**  
 
 ## 2019 - Speaker 
-**Beer Farmers  - [Beer Con 1: 24 Hour Global Podcast](https://github.com/AngusRed/Talks/tree/master/BeerCon%201%202019)**   
+**Beer Farmers  
+[Beer Con 1: 24 Hour Global Podcast](https://github.com/AngusRed/Talks/tree/master/BeerCon%201%202019)**   
 
 ## Hacker Community Engagement  
 
