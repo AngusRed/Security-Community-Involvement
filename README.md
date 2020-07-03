@@ -2,6 +2,9 @@
 
 ## 2020 - Speaker 
 
+**Quartercon - Cyber in Africa  
+[Cybersecurity recruiting in Africa: Comparing Silicon Valley to Africa, and how we can be creative about hiring](https://www.quartercon.com/)**  
+
 **CircleCityCon - Career Workshop AMA   
 [Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**    
 
@@ -23,6 +26,7 @@
 
 ## Hacker Community Engagement  
 
+2020            **[QuarterCon-Cyber in Africa](https://twitter.com/CyberInAfrica)** **Panel/Fireside Talk with [@DeirdeDiamond](https://twitter.com/DeidreDiamond)**  
 2020 - Present  **[CircleCityCon](https://circlecitycon.com/)**  **Wildcard Volunteer - Career Track**  
 2019 - Present  **[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**      **Organizer**   
 2020 - Present  **[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**   **Founder**  
