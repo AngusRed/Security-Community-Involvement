@@ -1,0 +1,1 @@
+Details related to Quartercon
