@@ -33,6 +33,7 @@
 2020  **[QuarterCon-Cyber in Africa](https://twitter.com/CyberInAfrica)** **Panel/Fireside Talk with [@DeirdeDiamond](https://twitter.com/DeidreDiamond)**    
 2020  **CircleCityCon - Career Workshop AMA [Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**    
 2020  **[TUDublin HackerSoc](http://hackersoc.com/)**   **Speaker**  
+2020  **[The Many Hats Club - ISOLATIONCon](https://github.com/AngusRed/Talks/tree/master/TMHC%20ISOLATIONCon)**  **Speaker**    
 2020  **[SecArmy SARCON 2020](https://community.secarmy.org/sarcon/)**   **Speaker**  
 2020  **[DerpCon vCon](https://twitter.com/DerpConInfosec/status/1255917412743933952?s=20)**  2020  - **Hiring Ground Lead (40 Resumes Reviewed)/CTF Competitor**  
 2020  **[GRIMMCon vCon 2020](https://www.grimm-co.com/grimmcon)** **Resume/LI Reviews**  
