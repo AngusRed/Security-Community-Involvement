@@ -5,9 +5,6 @@
 **Quartercon - Cyber in Africa  
 [Cybersecurity recruiting in Africa: Comparing Silicon Valley to Africa, and how we can be creative about hiring](https://www.quartercon.com/)**  
 
-**CircleCityCon - Career Workshop AMA   
-[Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**    
-
 **Second Order Chaos - Pros v Joes  
 [Your Recruiter and You: Understanding recruiters and how best to work with yours.](https://github.com/AngusRed/Security-Community-Involvement/tree/master/2nd%20Order%20Chaos_Pros%20vs%20Joes)**     
 
@@ -26,13 +23,15 @@
 
 ## Hacker Community Engagement  
 
-2020            **[QuarterCon-Cyber in Africa](https://twitter.com/CyberInAfrica)** **Panel/Fireside Talk with [@DeirdeDiamond](https://twitter.com/DeidreDiamond)**  
+
 2020 - Present  **[CircleCityCon](https://circlecitycon.com/)**  **Wildcard Volunteer - Career Track**  
 2019 - Present  **[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**      **Organizer**   
 2020 - Present  **[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**   **Founder**  
 2020 - Present  **[The Many Hats Club](https://themanyhats.club/)**           **Moderator**   
 2020 - Present  **[OWASP Cape Town Chapter](https://owasp.org/www-chapter-cape-town/)**      **Member** 
 
+2020  **[QuarterCon-Cyber in Africa](https://twitter.com/CyberInAfrica)** **Panel/Fireside Talk with [@DeirdeDiamond](https://twitter.com/DeidreDiamond)**    
+2020  **CircleCityCon - Career Workshop AMA [Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**    
 2020  **[TUDublin HackerSoc](http://hackersoc.com/)**   **Speaker**  
 2020  **[SecArmy SARCON 2020](https://community.secarmy.org/sarcon/)**   **Speaker**  
 2020  **[DerpCon vCon](https://twitter.com/DerpConInfosec/status/1255917412743933952?s=20)**  2020  - **Hiring Ground Lead (40 Resumes Reviewed)/CTF Competitor**  
