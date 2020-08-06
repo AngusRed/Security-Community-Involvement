@@ -40,7 +40,7 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 2020  **[The Many Hats Club - ISOLATIONCon](https://github.com/AngusRed/Talks/tree/master/TMHC%20ISOLATIONCon)**  **Speaker**    
 2019  **[Beer Farmers Beer Con 1: 24 Hour Global Podcast](https://github.com/AngusRed/Talks/tree/master/BeerCon%201%202019)**   
 2020  **[DerpCon vCon](https://twitter.com/DerpConInfosec/status/1255917412743933952?s=20)**  2020  - **Hiring Ground Lead (40 Resumes Reviewed)/CTF Competitor**  
-2020  **[GRIMMCon vCon 2020](https://www.grimm-co.com/grimmcon)** **Resume/LI Reviews**  
+2020  **[GRIMMCon 1 and 0x2 vCon 2020](https://www.grimm-co.com/grimmcon)** **Resume/LI Reviews**  
 2020  **[TMHC Isolation Con](https://themanyhats.club/the-many-hats-club-presents-isolationcon/)**    **Speaker/Mod**  
 2018  **[B Sides Cape Town](https://bsidescapetown.co.za/past_events/)**           **Volunteer**  
 2018  **[ShellCon Raise me](https://shellcon.io/raiseme/)**            **Remote Assisted Resume Review**  
