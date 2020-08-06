@@ -23,7 +23,9 @@
 
 ## Hacker Community Engagement  
 
-
+2020 - Present **DEF CON Red Village** **Volunteer**  
+2020 - Present **DEF CON Blue Team Village**  **Volunteer/Lead of Careers**  
+2020 - Present **DEF CON Career Hacking Village** **Volunteer/Resume Reviewer**  
 2020 - Present  **[CircleCityCon](https://circlecitycon.com/)**  **Wildcard Volunteer - Career Track**  
 2019 - Present  **[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**      **Organizer**   
 2020 - Present  **[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**   **Founder**  
@@ -44,6 +46,9 @@
  
 
 ## Capture The Flag  
+
+**TraceLabs Global Missing Persons  
+2020 [Member of Hack South ZA CTF Team]() Placed 31st out of 185 Teams**  
 
 **NahamCon CTF  
 2020  [NahamCon CTF - Member of Hack South Team -OSINT & Forensics](https://twitter.com/hack_south/status/1271927526831656962?s=20)** Place 43rd out of 2800 Teams & Participants  
