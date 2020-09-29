@@ -3,7 +3,7 @@
 ## 2020 - Speaker 
 
 **Quartercon - Cyber in Africa  
-[Cybersecurity recruiting in Africa: Comparing Silicon Valley to Africa, and how we can be creative about hiring](https://www.quartercon.com/)**   
+[Cybersecurity recruiting in Africa: Comparing Silicon Valley to Africa, and how we can be creative about hiring](https://www.youtube.com/watch?v=khxKHnW2Ok4&ab_channel=CyberInAfricaTV)**   
 Also conducted a fireside panel discussion about recruiting security in Africa vs Silicon Valley  
 
 **Second Order Chaos - Pros v Joes  
