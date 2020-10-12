@@ -33,6 +33,8 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 2020 - Present  **[The Many Hats Club](https://themanyhats.club/)**           **Moderator**   
 2020 - Present  **[OWASP Cape Town Chapter](https://owasp.org/www-chapter-cape-town/)**      **Member** 
 
+
+2020 **[Cyber Scotland Connect](https://twitter.com/SecScotland/status/1313932240750080000?s=20)**  **Panelist - Career paths into infosec**  
 2020  **[QuarterCon-Cyber in Africa](https://twitter.com/CyberInAfrica)** **Panel/Fireside Talk with [@DeirdeDiamond](https://twitter.com/DeidreDiamond)**    
 2020  **CircleCityCon - Career Workshop AMA [Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**    
 2020  **[TUDublin HackerSoc](http://hackersoc.com/)**   **Speaker**  
