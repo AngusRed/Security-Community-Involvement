@@ -3,6 +3,9 @@
 [conINT 2020 Site](https://conint.io/)  
 [conINT Youtube](https://www.youtube.com/channel/UCBtSOceclpKcvunVNw82tFQ/featured)  
 
+[conINT: OSINT-The gateway drug your mother never told you about.](https://www.youtube.com/watch?v=Kl5Ivl0dQZo&ab_channel=conINT)  
+
+
 TALKS & WORKSHOPS
 Whether you are an enthusiast looking to break in to the industry, or a seasoned law enforcement investigator, day 1 is an opportunity hone your existing skills, and learn new ones, in intelligence acquisition and analysis, investigations, and more with a full day of presentations and hands-on technical workshops hosted by The Many Hats Club.  
 
