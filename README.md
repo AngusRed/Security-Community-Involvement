@@ -28,7 +28,7 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 
 ## Hacker Community Engagement  
 
-2020 - Present  **BSides Orlando-FL** **Volunteer**
+2020 - Present  **BSides Orlando, FL** **Volunteer**  
 2020 - Present **conINT** **Staff/Volunteer/Mod/Speaker**  
 2020 - Present **DEF CON Red Village** **Volunteer**  
 2020 - Present **DEF CON Blue Team Village**  **Volunteer/Lead of Careers**  
