@@ -1,7 +1,9 @@
 ## conINT 2020
 [TMHC Twitch](https://www.twitch.tv/themanyhatsclub)  
 [conINT 2020 Site](https://conint.io/)  
+[conINT Youtube](https://www.youtube.com/channel/UCBtSOceclpKcvunVNw82tFQ/featured)  
 
+[conINT: OSINT-The gateway drug your mother never told you about.](https://www.youtube.com/watch?v=Kl5Ivl0dQZo&ab_channel=conINT)  
 
 
 TALKS & WORKSHOPS

@@ -2,6 +2,10 @@
 
 ## 2020 - Speaker 
 
+**conINT - The Intelligence Based vCon  
+[OSINT: The gateway drug your mother never told you about.](https://www.youtube.com/watch?v=Kl5Ivl0dQZo&t=120s&ab_channel=conINT)**  
+
+
 **Quartercon - Cyber in Africa  
 [Cybersecurity recruiting in Africa: Comparing Silicon Valley to Africa, and how we can be creative about hiring](https://www.youtube.com/watch?v=khxKHnW2Ok4&ab_channel=CyberInAfricaTV)**   
 Also conducted a fireside panel discussion about recruiting security in Africa vs Silicon Valley  
@@ -24,6 +28,8 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 
 ## Hacker Community Engagement  
 
+2020 - Present  **BSides Orlando, FL** **Volunteer**  
+2020 - Present **conINT** **Staff/Volunteer/Mod/Speaker**  
 2020 - Present **DEF CON Red Village** **Volunteer**  
 2020 - Present **DEF CON Blue Team Village**  **Volunteer/Lead of Careers**  
 2020 - Present **DEF CON Career Hacking Village** **Volunteer/Resume Reviewer**  
@@ -31,7 +37,8 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 2019 - Present  **[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**      **Organizer**   
 2020 - Present  **[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**   **Founder**  
 2020 - Present  **[The Many Hats Club](https://themanyhats.club/)**           **Moderator**   
-2020 - Present  **[OWASP Cape Town Chapter](https://owasp.org/www-chapter-cape-town/)**      **Member** 
+2020 - Present  **[OWASP Cape Town Chapter](https://owasp.org/www-chapter-cape-town/)**      **Member**   
+2018 - Present  **[ShellCon Raise me](https://shellcon.io/raiseme/)**            **Resume Review**    
 
 
 2020 **[Cyber Scotland Connect](https://www.youtube.com/watch?v=asAxcHzrBS8&ab_channel=CyberScotlandConnect)**  **Panelist - Career paths into infosec**  
@@ -44,16 +51,18 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 2020  **[DerpCon vCon](https://twitter.com/DerpConInfosec/status/1255917412743933952?s=20)**  2020  - **Hiring Ground Lead (40 Resumes Reviewed)/CTF Competitor**  
 2020  **[GRIMMCon 1 and 0x2 vCon 2020](https://www.grimm-co.com/grimmcon)** **Resume/LI Reviews**  
 2020  **[TMHC Isolation Con](https://themanyhats.club/the-many-hats-club-presents-isolationcon/)**    **Speaker/Mod**  
-2018  **[B Sides Cape Town](https://bsidescapetown.co.za/past_events/)**           **Volunteer**  
-2018  **[ShellCon Raise me](https://shellcon.io/raiseme/)**            **Remote Assisted Resume Review**  
- 
+2018  **[B Sides Cape Town](https://bsidescapetown.co.za/past_events/)**           **Volunteer**    
+
 
 ## Capture The Flag  
 
-**TravceLabs Global Missing Persons  
+**TravceLabs Global Missing Persons  "conINT/9"    
+2020 [TL of Hack South](https://www.hacksouth.africa) Placed 3rd out of 180 Teams, and gained over 12k+ points**  
+
+**TraceLabs Global Missing Persons "8"       
 2020 [TL of Hack South](https://www.hacksouth.africa) Placed 7th out of 180 Teams, and gained over 10k points**  
 
-**TraceLabs Global Missing Persons  
+**TraceLabs Global Missing Persons  "5"    
 2020 [Member of Hack South ZA CTF Team]() Placed 31st out of 185 Teams**  
 
 **NahamCon CTF  
