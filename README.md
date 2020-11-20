@@ -2,6 +2,9 @@
 
 ## 2020 - Speaker 
 
+**0xCon 2020 - South African based FREE Con  
+[OSINT: The gateway drug your mother never told you about V2](https://www.youtube.com/watch?v=zYe--kUG_6w&list=PL1_hMlSbnZMRX6FwA2GulSlUFiDoKLomV&index=3&ab_channel=0XC0FFEEJHB)**  
+
 **conINT - The Intelligence Based vCon  
 [OSINT: The gateway drug your mother never told you about.](https://www.youtube.com/watch?v=Kl5Ivl0dQZo&t=120s&ab_channel=conINT)**  
 
@@ -38,9 +41,10 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 2020 - Present  **[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**   **Founder**  
 2020 - Present  **[The Many Hats Club](https://themanyhats.club/)**           **Moderator**   
 2020 - Present  **[OWASP Cape Town Chapter](https://owasp.org/www-chapter-cape-town/)**      **Member**   
-2018 - Present  **[ShellCon Raise me](https://shellcon.io/raiseme/)**            **Resume Review**    
+2018 - Present  **[ShellCon Raise me](https://shellcon.io/raiseme/)**            **Resume Review**      
 
 
+2020  **  
 2020 **[Cyber Scotland Connect](https://www.youtube.com/watch?v=asAxcHzrBS8&ab_channel=CyberScotlandConnect)**  **Panelist - Career paths into infosec**  
 2020  **[QuarterCon-Cyber in Africa](https://twitter.com/CyberInAfrica)** **Panel/Fireside Talk with [@DeirdeDiamond](https://twitter.com/DeidreDiamond)**    
 2020  **CircleCityCon - Career Workshop AMA [Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**    
