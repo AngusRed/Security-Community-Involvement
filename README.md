@@ -43,9 +43,9 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 2020 - Present  **[OWASP Cape Town Chapter](https://owasp.org/www-chapter-cape-town/)**      **Member**   
 2018 - Present  **[ShellCon Raise me](https://shellcon.io/raiseme/)**            **Resume Review**      
 
-
-2020  **  
-2020 **[Cyber Scotland Connect](https://www.youtube.com/watch?v=asAxcHzrBS8&ab_channel=CyberScotlandConnect)**  **Panelist - Career paths into infosec**  
+2020  **[0xCon 2020](https://www.youtube.com/watch?v=zYe--kUG_6w&list=PL1_hMlSbnZMRX6FwA2GulSlUFiDoKLomV&index=3&ab_channel=0XC0FFEEJHB)**    **Speaker/Mod**    
+2020  **[conINT](https://www.youtube.com/watch?v=Kl5Ivl0dQZo&t=120s&ab_channel=conINT)**    **Speaker/Mod**        
+2020  **[Cyber Scotland Connect](https://www.youtube.com/watch?v=asAxcHzrBS8&ab_channel=CyberScotlandConnect)**  **Panelist - Career paths into infosec**  
 2020  **[QuarterCon-Cyber in Africa](https://twitter.com/CyberInAfrica)** **Panel/Fireside Talk with [@DeirdeDiamond](https://twitter.com/DeidreDiamond)**    
 2020  **CircleCityCon - Career Workshop AMA [Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**    
 2020  **[TUDublin HackerSoc](http://hackersoc.com/)**   **Speaker**  
