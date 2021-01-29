@@ -34,7 +34,7 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 2020 - Present  **BSides Orlando, FL** **Volunteer**  
 2020 - Present **conINT** **Staff/Volunteer/Mod/Speaker**  
 2020 - Present **DEF CON Red Village** **Volunteer**  
-2020 - Present **DEF CON Blue Team Village**  **Volunteer/Lead of Careers**  
+2020 - Present **DEF CON Blue Team Village**  **Mentor/Lead of Careers**  
 2020 - Present **DEF CON Career Hacking Village** **Volunteer/Resume Reviewer**  
 2020 - Present  **[CircleCityCon](https://circlecitycon.com/)**  **Wildcard Volunteer - Career Track**  
 2019 - Present  **[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**      **Organizer**   
