@@ -1,6 +1,11 @@
 ## Index of all Talks and Workshops
 
-## 2020 - Speaker 
+
+## 2021 - Speaker Engagements  
+
+** GovX Innovation Challenge:** Learn Phase  
+[OSINT: The gateway drug your mother never told you about V3](https://www.govxinnovationchallenge.com/learn)
+## 2020 - Speaker Engagements
 
 **0xCon 2020 - South African based FREE Con  
 [OSINT: The gateway drug your mother never told you about V2](https://www.youtube.com/watch?v=zYe--kUG_6w&list=PL1_hMlSbnZMRX6FwA2GulSlUFiDoKLomV&index=3&ab_channel=0XC0FFEEJHB)**  
@@ -43,6 +48,7 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 2020 - Present  **[OWASP Cape Town Chapter](https://owasp.org/www-chapter-cape-town/)**      **Member**   
 2018 - Present  **[ShellCon Raise me](https://shellcon.io/raiseme/)**            **Resume Review**      
 
+2021  ** GovX Innovation Challenge:** Learn Phase   **Speaker**   
 2020  **[0xCon 2020](https://www.youtube.com/watch?v=zYe--kUG_6w&list=PL1_hMlSbnZMRX6FwA2GulSlUFiDoKLomV&index=3&ab_channel=0XC0FFEEJHB)**    **Speaker/Mod**    
 2020  **[conINT](https://www.youtube.com/watch?v=Kl5Ivl0dQZo&t=120s&ab_channel=conINT)**    **Speaker/Mod**        
 2020  **[Cyber Scotland Connect](https://www.youtube.com/watch?v=asAxcHzrBS8&ab_channel=CyberScotlandConnect)**  **Panelist - Career paths into infosec**  
