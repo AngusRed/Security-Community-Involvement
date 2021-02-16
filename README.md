@@ -4,7 +4,7 @@
 ## 2021 - Speaker Engagements  
 
 **GovX Innovation Challenge:** Learn Phase  
-[OSINT: The gateway drug your mother never told you about V3](https://www.govxinnovationchallenge.com/learn)
+[OSINT: The gateway drug your mother never told you about V3](https://www.govxinnovationchallenge.com/webinar-series-content)
 ## 2020 - Speaker Engagements
 
 **0xCon 2020 - South African based FREE Con  
