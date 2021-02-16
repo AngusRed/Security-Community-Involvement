@@ -67,7 +67,7 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 ## Capture The Flag  
 
 **TravceLabs Global Missing Persons  "conINT/9"    
-2020 [TL of Hack South](https://www.hacksouth.africa) Placed 3rd out of 180 Teams, and gained over 12k+ points**  
+2020 [TL of Hack South](https://hacksouth.africa/ctf/tracelabs/) Placed 3rd out of 180 Teams, and gained over 12k+ points**  
 
 **TraceLabs Global Missing Persons "8"       
 2020 [TL of Hack South](https://www.hacksouth.africa) Placed 7th out of 180 Teams, and gained over 10k points**  
