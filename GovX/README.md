@@ -1,5 +1,6 @@
 Details related to talk  
 
+![GovX](https://github.com/AngusRed/_assets/blob/main/GovX/GovX%20Timeline.png){: .align-center}  
 
 Date: 5 February 2021  
 Duration: 45 mins  
