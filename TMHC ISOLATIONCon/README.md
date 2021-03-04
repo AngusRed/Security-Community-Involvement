@@ -20,6 +20,8 @@ o88o     o8888o o888o o888o `8oooooo.   `V88V"V8P' 8""888P' o888o  o888o `Y8bod8
 ```
 ## The Many Hats Club presents #ISOLATIONCon
 
+[Link to my talk](https://www.youtube.com/watch?v=FjoCoxd2fTk&ab_channel=TheManyHatsClub)
+
 ## I Recruit Hackers: Understanding your industry entry, your career and what matters.
 
 My talk will touch briefly on my own non-linear entry into Infosec. We will then focus on what matters when entering or transitioning into infosec, and then a bird's eye view of what a recruiter sees and does, and thus what is important to get noticed, get interviewed, and close a win-win offer!
