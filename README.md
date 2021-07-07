@@ -3,7 +3,7 @@
 
 ## 2021 - Speaker Engagements  
 
-**Trace Labs: Breadcrumbs Podcast**
+**Trace Labs: Breadcrumbs Podcast**  
 [Episode 6. -OSINT for Job Seekers](https://open.spotify.com/episode/39dpefqM882JSxyahbQYBB?si=5fded5026b0f4730)   
 
 **GovX Innovation Challenge:** Learn Phase  
