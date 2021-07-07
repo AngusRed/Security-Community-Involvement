@@ -3,8 +3,13 @@
 
 ## 2021 - Speaker Engagements  
 
+**Trace Labs: Breadcrumbs Podcast**
+[Episode 6. -OSINT for Job Seekers](https://open.spotify.com/episode/39dpefqM882JSxyahbQYBB?si=5fded5026b0f4730)   
+
 **GovX Innovation Challenge:** Learn Phase  
-[OSINT: The gateway drug your mother never told you about V3](https://www.govxinnovationchallenge.com/webinar-series-content)
+[OSINT: The gateway drug your mother never told you about V3](https://www.govxinnovationchallenge.com/webinar-series-content)  
+
+
 ## 2020 - Speaker Engagements
 
 **0xCon 2020 - South African based FREE Con  
@@ -42,20 +47,20 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 2020 - Present **DEF CON Blue Team Village**  **Mentor/Lead of Careers**  
 2020 - Present **DEF CON Career Hacking Village** **Volunteer/Resume Reviewer**  
 2020 - Present **[The Diana Initiative](https://www.dianainitiative.org/)**   **Careers and Resume Reviews/Volunteer**  
-2020 - Present  **[CircleCityCon](https://circlecitycon.com/)**  **Wildcard Volunteer - Career Track**  
-2019 - Present  **[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**      **Organizer**   
-2020 - Present  **[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**   **Founder**  
-2020 - Present  **[The Many Hats Club](https://themanyhats.club/)**           **Moderator**   
-2020 - Present  **[OWASP Cape Town Chapter](https://owasp.org/www-chapter-cape-town/)**      **Member**   
-2018 - Present  **[ShellCon Raise me](https://shellcon.io/raiseme/)**            **Resume Review**      
+2019 - Present  **[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**      **Organizer**     
+2020 - Present  **[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**   **Founder**    
+2020 - Present  **[OWASP Cape Town Chapter](https://owasp.org/www-chapter-cape-town/)**      **Member**     
+2018 - Present  **[ShellCon Raise me](https://shellcon.io/raiseme/)**            **Resume Review**        
 
 2021  **TMHC IsolationCon2: Second Wave**     Purple Team Track      **MC**  
+2020 - 2021  **[The Many Hats Club](https://themanyhats.club/)**           **Moderator**   
 2021  **[GovX Innovation Challenge](https://www.govxinnovationchallenge.com/learn):** Learn Phase   **Speaker**   
 2020  **[0xCon 2020](https://www.youtube.com/watch?v=zYe--kUG_6w&list=PL1_hMlSbnZMRX6FwA2GulSlUFiDoKLomV&index=3&ab_channel=0XC0FFEEJHB)**    **Speaker/Mod**    
 2020  **[conINT](https://www.youtube.com/watch?v=Kl5Ivl0dQZo&t=120s&ab_channel=conINT)**    **Speaker/Mod**        
 2020  **[Cyber Scotland Connect](https://www.youtube.com/watch?v=asAxcHzrBS8&ab_channel=CyberScotlandConnect)**  **Panelist - Career paths into infosec**  
 2020  **[QuarterCon-Cyber in Africa](https://twitter.com/CyberInAfrica)** **Panel/Fireside Talk with [@DeirdeDiamond](https://twitter.com/DeidreDiamond)**    
-2020  **CircleCityCon - Career Workshop AMA [Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**    
+2020  **CircleCityCon - Career Workshop AMA [Interactive AMA on Careers, jobs and candidacy](https://circlecitycon.com/)**   
+2020 **[CircleCityCon](https://circlecitycon.com/)**  **Wildcard Volunteer - Career Track**    
 2020  **[TUDublin HackerSoc](http://hackersoc.com/)**   **Speaker**  
 2020  **[SecArmy SARCON 2020](https://community.secarmy.org/sarcon/)**   **Speaker**  
 2020  **[The Many Hats Club - ISOLATIONCon](https://github.com/AngusRed/Talks/tree/master/TMHC%20ISOLATIONCon)**  **Speaker**    
