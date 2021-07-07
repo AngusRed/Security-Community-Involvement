@@ -41,6 +41,7 @@ Also conducted a fireside panel discussion about recruiting security in Africa v
 2020 - Present **DEF CON Red Village** **Volunteer**  
 2020 - Present **DEF CON Blue Team Village**  **Mentor/Lead of Careers**  
 2020 - Present **DEF CON Career Hacking Village** **Volunteer/Resume Reviewer**  
+2020 - Present **[The Diana Initiative](https://www.dianainitiative.org/)**   **Careers and Resume Reviews/Volunteer**  
 2020 - Present  **[CircleCityCon](https://circlecitycon.com/)**  **Wildcard Volunteer - Career Track**  
 2019 - Present  **[B Sides Cape Town](https://bsidescapetown.co.za/staff/)**      **Organizer**   
 2020 - Present  **[Hack South Server(Discord)](https://discord.gg/wgWVpXw)**   **Founder**  
